@@ -1,8 +1,5 @@
 ## Hi there, I'm Maroua 👋
 
-I am a physics student
+Physics student | Computational Physics | Scientific Programming
 
-Interested in Quantum Mechanics & Computational physics | LaTeX & python 
-
-
-
+**Python · LaTeX · HTML · CSS · JavaScript**
