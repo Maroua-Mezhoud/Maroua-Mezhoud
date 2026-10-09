@@ -2,4 +2,4 @@
 
 Physics student | Computational Physics | Scientific Programming
 
-**Python · LaTeX · HTML · CSS · JavaScript · wolfram**
+**Python · LaTeX · HTML · CSS · JavaScript · Wolfram**
