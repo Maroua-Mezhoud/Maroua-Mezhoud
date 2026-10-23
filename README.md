@@ -1,5 +1,8 @@
 ## Hi there, I'm Maroua 👋
 
-Physics student | Computational Physics | Scientific Programming
+🎓 Physics Student | 💻 Web Developer | 🔬 Computational Physics
 
-**Python · LaTeX · Wolfram · HTML · CSS · JavaScript**
+Building websites, exploring scientific programming, and turning ideas into projects.
+
+**Python · HTML · CSS · JavaScript · LaTeX · Wolfram**
+
